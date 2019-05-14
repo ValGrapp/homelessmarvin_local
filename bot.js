@@ -160,11 +160,6 @@ constructor(conversationState, userState) {
                 {type: 'typing'},
                 {type: 'delay', value: 1000}
                 ])
-            await step.context.sendActivity(`Alright!`);
-            await step.context.sendActivities([
-                {type: 'typing'},
-                {type: 'delay', value: 1000}
-                ])
             await step.context.sendActivity(`I’m 39 years young and of course I wasn't homeless my whole life.`);
             await step.context.sendActivity(`I used to work in bakery that went broke..`);
             await step.context.sendActivities([
@@ -175,7 +170,7 @@ constructor(conversationState, userState) {
             await step.context.sendActivity(`She is my greatest motivation to get my life into places again.`);
             await step.context.sendActivities([
                 {type: 'typing'},
-                {type: 'delay', value: 1500}
+                {type: 'delay', value: 1000}
                 ])
             await step.context.sendActivity(`What else you wanna know? :)`);
         } else {

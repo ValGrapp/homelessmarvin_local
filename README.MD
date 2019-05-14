@@ -8,7 +8,7 @@ Have you ever talked to a homeless person? What do think when you see them on th
 Do you feel empathy? Do you have prejudices? And if so, what kind of? 
 
 In this project, we decided to create a chatbot, to built a bridge between humans, which live side by side but still are not connected. 
-In our everyday live, it's sometimes hard to make connections, especially when our thoughts are loaded with prejudices and insecurities. 
+In our everyday life, it's sometimes hard to make connections, especially when our thoughts are loaded with prejudices and insecurities. 
 We want to grow understanding and empathy to contribute to a more connected, helpful and loving society. 
 
 With this beeing said: **Meet Marvin!** He would love to share his story with you and answer your questions!
@@ -18,8 +18,8 @@ Topics to talk about:
 - His daily life (Where do you sleep? Do you sleep in a shelter? What do you eat? Your daily life? Winter?)
 - Future (What are your dreams?)
 - Support (How can I help?)
-- Money (How do you earn money? What do you buy?
-- Consume (Drugs? Clothing?)
+- Money (How do you earn money? What do you buy?)
+- Consum (Drugs? Clothing?)
 
 **Talk to him on Telegram! @homelessmarvinbot**
 
